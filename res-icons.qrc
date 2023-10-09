@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/music.svg</file>
+    <file>icons/volume.svg</file>
+    <file>icons/download.svg</file>
+    <file>icons/logo.svg</file>
+    <file>icons/back.svg</file>
+    <file>icons/next.svg</file>
+    <file>icons/pause.svg</file>
+    <file>icons/play.svg</file>
+  </qresource>
+</RCC>
